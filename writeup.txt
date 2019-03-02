@@ -1,0 +1,10 @@
+I've pretty much used pandas (for handling the database in Python) and requests (for procuring the webpage).
+
+For the interaction of pandas with HTML, and with Excel, there are a few dependencies required. They may or may not be there on every laptop. I've also attached an install-scripts.sh file which you can use to install those dependencies if you want to run the code on your system.
+
+Experience with Python - 
+Been involved in 3 research projects and 1 research internship with a strong angle of AI and data science.
+I've done courses in Machine Learning, Deep Learning, and Natural Language Processing which all required Python.
+
+Experience with web scraping - 
+For my undergraduate thesis, we had to write a script for scraping a large database of court cases summaries from https://services.ecourts.gov.in/
